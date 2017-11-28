@@ -1530,7 +1530,7 @@ form label {
   -webkit-box-shadow: 0px 0 30px 10px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0px 0 30px 10px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 0 30px 10px rgba(0, 0, 0, 0.25);
-  background: #12b7d5;
+  background: #0ca8c5;
 }
 @media screen and (max-width: 768px) {
   #gtco-features-3 .feature.feature-2 {
@@ -1540,7 +1540,7 @@ form label {
   }
 }
 #gtco-features-3 .feature.feature-2 .icon {
-  background: #0babc8;
+  background: #089db8;
 }
 #gtco-features-3 .feature.feature-2 .feature-inner {
   top: -3em;
@@ -1555,7 +1555,7 @@ form label {
   position: absolute;
   top: -50px;
   content: "";
-  background: #11adc9;
+  background: #0cabc7;
   height: 50px;
   width: 100%;
   left: 0;
