@@ -1569,7 +1569,7 @@ form label {
   position: absolute;
   bottom: -30px;
   content: "";
-  background: #0b9ab3;
+  background: #0cabc7;
   height: 30px;
   width: 100%;
   left: 0;
@@ -1584,7 +1584,7 @@ form label {
 }
 #gtco-features-3 .feature.feature-3 {
   z-index: 7;
-  background: #10a3be;
+  background: #0cabc7;
 }
 #gtco-features-3 .feature.feature-3 .icon {
   background: #09a9c6;
